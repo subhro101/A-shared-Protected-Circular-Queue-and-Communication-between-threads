@@ -6,7 +6,9 @@ Project Name :- A shared Protected Circular Queue and Communication between thre
 File Name :- Proj3.c
 *******************************************************************************************************/
 
-This project was compiled and executed on using CIRCE (USF research computing system
+This project was compiled and executed on using MobaxTerm connected to CIRCE (USF research computing system
+)
+You can use any GNU compiler to compile and test this project
 To compile the file use following command - 
 $ gcc Proj3.c -o proj -lpthread -lrt
 
